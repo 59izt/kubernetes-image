@@ -1,1 +1,1 @@
-FROM gcr.io/distroless/static:latest-amd64
+FROM gcr.io/distroless/static:latest-arm64
